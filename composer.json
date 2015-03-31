@@ -24,6 +24,6 @@
 		"source":   "https://github.com/KodiCMS/module-dashboard"
 	},
 	"require": {
-		"kodicms/core": "dev-master"
+		"kodicms/core": "dev-psr_4"
 	}
 }
