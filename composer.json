@@ -13,6 +13,11 @@
 			"role":     "developer"
 		}
 	],
+	"autoload": {
+		"psr-4": {
+			"KodiCMS\\Dashboard\\": "classes"
+		}
+	},
 	"support": {
 		"issues":   "https://github.com/KodiCMS/module-dashboard/issues",
 		"forum":    "http://www.kodicms.ru/forum",
